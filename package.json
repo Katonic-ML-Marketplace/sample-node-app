@@ -1,0 +1,19 @@
+{
+  "name": "katonic-node-sample",
+  "version": "0.0.1",
+  "description": "The sample app for node application",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm run test",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "node",
+    "katonic"
+  ],
+  "author": "Katonic",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
